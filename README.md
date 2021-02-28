@@ -9,7 +9,7 @@
     <pre>
     <code>
     목적
-    1. [딥러닝 수업](https://sites.google.com/a/khu.ac.kr/mlvc/class/machine_learning_2021_spring)을 듣는 학생에겐 복습할 수 있는 환경을, 듣지 않은 학생들에겐 기본 개념을 공부할 수 있는 보다 좋은 환경을 제공한다.
+    1. 딥러닝 수업(CSE331-00)을 듣는 학생에겐 복습할 수 있는 환경을, 듣지 않은 학생들에겐 기본 개념을 공부할 수 있는 보다 좋은 환경을 제공한다.
     2. 실제 논문을 읽고 구현해봄으로써 해당 분야가 자신과 맞는지 경험할 수 있는 기회를 제공한다.
     3. 추후 스터디원이 확장할 kaggle 도전,  application 제작등의 밑거름이 될 수 있도록 한다.
 
@@ -31,7 +31,7 @@
     - 참고
     <pre>
     <code>
-    "딥러닝 스터디"는 [딥러닝 수업](https://sites.google.com/a/khu.ac.kr/mlvc/class/machine_learning_2021_spring)과 같은 속도로 진행할 예정이며, "Machine Learning for Beginner"은 
+    "딥러닝 스터디"는 딥러닝 수업(CSE331-00)과 같은 속도로 진행할 예정이며, "Machine Learning for Beginner"은 
     딥러닝 수업과 관계없이 스터디원들간의 상의를 통해 진행할 예정입니다.
     </pre>
     </code>
